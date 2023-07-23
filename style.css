@@ -1,0 +1,39 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    text-shadow: 5px 5px 5px white;
+}
+.NOTE{
+    color: black;
+    font-size: 15px;
+}
+body{
+    background-image: url("https://th.bing.com/th/id/R.2773385e0dbfe8115cf3c4780dc71c45?rik=bhFXetVMGrzfiA&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f31300000%2f-music-wallpaper-music-31371495-1600-1000.jpg&ehk=95zUGFvgWGQs7iY17tZ0gG2iRbj0shE4mOEg4sGRNBs%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-position: fixed;
+
+}
+.div_speed{
+    float: left;
+   
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+
+}
+.div_volume{
+    float: right;
+}
+#speed,#volume{
+   font-size: 23px;
+   margin: 15px;
+}
+canvas{
+    border:5px  solid white;
+    border-radius: 30px;
+    
+    
+}
+
